@@ -1,0 +1,28 @@
+{
+  "name": "muse-trends",
+  "version": "0.0.0",
+  "description": "web service to show keyword trends autocompleted by Datamuse API",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/muse-trends.git"
+  },
+  "keywords": [
+    "screen jobs",
+    "indeed",
+    "web service"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/muse-trends/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
